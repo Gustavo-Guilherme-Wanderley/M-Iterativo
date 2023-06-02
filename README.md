@@ -76,3 +76,4 @@ plt.plot(iteracoes, x1, label='x1')
 plt.plot(iteracoes, x2, label='x2')
 plt.plot(iteracoes, x3, label='x3')
 ```
+![grafico](https://github.com/Gustavo-Guilherme-Wanderley/M-Iterativo/assets/77367556/14bb9f39-0d46-4ced-9ba6-4831a8951123)
