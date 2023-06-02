@@ -1,5 +1,15 @@
 # Método iterativo
 
+![Equação](https://github.com/Gustavo-Guilherme-Wanderley/M-Iterativo/assets/77367556/b38e2cce-73fb-430f-90e8-e9e8b328f1b6)
+
+O sistema de equações simultâneas pode ser resolvido usando um procedimento chamado de iteração.
+O processo iterativo consiste em considerar um valor inicial para (x1, x2, x3). Substituindo esse valor
+inicial nas equações do sistema, obter um novo valor para (x1, x2, x3); esse novo valor é substituído nas
+equações do sistema para obter outro novo valor para (x1, x2, x3) e assim sucessivamente até que uma
+boa solução para o sistema seja obtida. Cada substituição é uma iteração
+
+O usuário deve entra, via teclado, com o número de iterações, n, que deseja realizar e o programa deve apresentar na tela os
+valores de (x1, x2, x3) obtido em cada iteração.
 
 ```
 #include <stdio.h>
