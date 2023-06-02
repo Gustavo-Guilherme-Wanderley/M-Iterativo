@@ -1,6 +1,6 @@
 # Método iterativo
 
-![Equação](https://github.com/Gustavo-Guilherme-Wanderley/M-Iterativo/assets/77367556/b38e2cce-73fb-430f-90e8-e9e8b328f1b6)
+<img src="https://github.com/Gustavo-Guilherme-Wanderley/M-Iterativo/assets/77367556/b38e2cce-73fb-430f-90e8-e9e8b328f1b6" width=30% height=30%>
 
 O sistema de equações simultâneas pode ser resolvido usando um procedimento chamado de iteração.
 O processo iterativo consiste em considerar um valor inicial para (x1, x2, x3). Substituindo esse valor
