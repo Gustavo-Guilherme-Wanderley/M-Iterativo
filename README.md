@@ -1,4 +1,6 @@
 # Método iterativo
+
+
 ```
 #include <stdio.h>
 
